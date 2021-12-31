@@ -1,0 +1,2 @@
+strawberry-graphql==0.93.13
+strawberry-graphql[fastapi]==0.93.13
